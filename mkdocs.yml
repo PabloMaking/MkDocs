@@ -1,5 +1,5 @@
 site_name: MakingScience Project Assets
-repo_url: https://github.com/PabloMaking/MdDocs
+repo_url: https://github.com/PabloMaking/MkDocs
 nav:
   - Home: index.md
   - ApiKeys: apikeys.googleapis.com.md

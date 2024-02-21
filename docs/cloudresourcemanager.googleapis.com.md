@@ -1,0 +1,7 @@
+# CloudResourceManager-GoogleApis
+
+## Project
+
+| name                                                                          | assetType                                   | project               | displayName              | location | labels                      | additionalAttributes                            | createTime           | state  | organization              | parentFullResourceName                                     | parentAssetType                            |
+| ----------------------------------------------------------------------------- | ------------------------------------------- | --------------------- | ------------------------ | -------- | --------------------------- | ----------------------------------------------- | -------------------- | ------ | ------------------------- | ---------------------------------------------------------- | ------------------------------------------ |
+| //cloudresourcemanager.googleapis.com/projects/mapfre-dig-esp--dat--pro--8620 | cloudresourcemanager.googleapis.com/Project | projects/147054572341 | mapfre-dig-esp--dat--pro | global   | {'created_by': 'terraform'} | {'projectId': 'mapfre-dig-esp--dat--pro--8620'} | 2022-04-07T08:42:02Z | ACTIVE | organizations/62664342784 | //cloudresourcemanager.googleapis.com/folders/188109401754 | cloudresourcemanager.googleapis.com/Folder |

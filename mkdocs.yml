@@ -1,0 +1,29 @@
+site_name: MakingScience Project Assets
+repo_url: https://github.com/PabloMaking/MdDocs
+nav:
+  - Home: index.md
+  - ApiKeys: apikeys.googleapis.com.md
+  - AppsK8s: apps.k8s.io.md
+  - ArtifactRegistry: artifactregistry.googleapis.com.md
+  - BigQuery: bigquery.googleapis.com.md
+  - Billing: cloudbilling.googleapis.com.md
+  - Functions: cloudfunctions.googleapis.com.md
+  - Resourcemanager: cloudresourcemanager.googleapis.com.md
+  - Tasks: cloudtasks.googleapis.com.md
+  - Compute: compute.googleapis.com.md
+  - Container: container.googleapis.com.md
+  - ContainerRegistry: containerregistry.googleapis.com.md
+  - DataFlow: dataflow.googleapis.com.md
+  - DNS: dns.googleapis.com.md
+  - IAM: iam.googleapis.com.md
+  - Logging: logging.googleapis.com.md
+  - Monitoring: monitoring.googleapis.com.md
+  - PubSub: pubsub.googleapis.com.md
+  - RbacAuthk8s: rbac.authorization.k8s.io.md
+  - Redis: redis.googleapis.com.md
+  - SecretManager: secretmanager.googleapis.com.md
+  - ServiceUsage: serviceusage.googleapis.com.md
+  - SqlAdmin: sqladmin.googleapis.com.md
+  - Storage: storage.googleapis.com.md
+  - VPC: vpcaccess.googleapis.com.md
+theme: readthedocs

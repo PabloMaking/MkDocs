@@ -1,0 +1,7 @@
+# CloudBilling-GoogleApis
+
+## ProjectBillingInfo
+
+| name                                                                              | assetType                                      | project               | displayName                                         | location | state  | organization              | parentFullResourceName                                                        | parentAssetType                             |
+| --------------------------------------------------------------------------------- | ---------------------------------------------- | --------------------- | --------------------------------------------------- | -------- | ------ | ------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------- |
+| //cloudbilling.googleapis.com/projects/mapfre-dig-esp--dat--pro--8620/billingInfo | cloudbilling.googleapis.com/ProjectBillingInfo | projects/147054572341 | projects/mapfre-dig-esp--dat--pro--8620/billingInfo | global   | ACTIVE | organizations/62664342784 | //cloudresourcemanager.googleapis.com/projects/mapfre-dig-esp--dat--pro--8620 | cloudresourcemanager.googleapis.com/Project |

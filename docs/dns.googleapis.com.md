@@ -1,0 +1,7 @@
+# DNS-GoogleApis
+
+## ManagedZone
+
+| name                                                                                          | assetType                      | project               | displayName        | description                                    | labels                      | additionalAttributes                           | createTime           | state    | organization              | parentFullResourceName                                                        | parentAssetType                             |
+| --------------------------------------------------------------------------------------------- | ------------------------------ | --------------------- | ------------------ | ---------------------------------------------- | --------------------------- | ---------------------------------------------- | -------------------- | -------- | ------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------- |
+| //dns.googleapis.com/projects/mapfre-dig-esp--dat--pro--8620/managedZones/2240504970066830780 | dns.googleapis.com/ManagedZone | projects/147054572341 | mapfre-digital-esp | Main DNS zone - mapfre-digital-esp.miindel.com | {'created_by': 'terraform'} | {'dnsName': 'mapfre-digital-esp.miindel.com.'} | 2022-04-07T09:17:53Z | DISABLED | organizations/62664342784 | //cloudresourcemanager.googleapis.com/projects/mapfre-dig-esp--dat--pro--8620 | cloudresourcemanager.googleapis.com/Project |

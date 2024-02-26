@@ -1,5 +1,6 @@
 site_name: MakingScience Project Assets
 repo_url: https://github.com/PabloMaking/MkDocs
+dev_addr: '0.0.0.0:8000'
 nav:
   - Home: index.md
   - ApiKeys: apikeys.googleapis.com.md
@@ -26,4 +27,7 @@ nav:
   - SqlAdmin: sqladmin.googleapis.com.md
   - Storage: storage.googleapis.com.md
   - VPC: vpcaccess.googleapis.com.md
-theme: readthedocs
+theme: windmill
+plugins:
+  - search
+  - autolinks

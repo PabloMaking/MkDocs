@@ -1,5 +1,5 @@
 # MarkDown para accountability de recursos
-
+![gif](googlecloud.gif)
 ## Assets types
 
 In this document we can found a detail about the assets that conform this project. In it, we can see a list of all them and a description of every asset type, a list of assets grouped by type and the details of them.
@@ -29,3 +29,4 @@ In this document we can found a detail about the assets that conform this projec
 23. sqladmin.googleapis.com
 24. storage.googleapis.com
 25. vpcaccess.googleapis.com
+

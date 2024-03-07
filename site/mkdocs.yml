@@ -1,6 +1,6 @@
 site_name: MakingScience Project Assets
 repo_url: https://github.com/PabloMaking/MkDocs
-dev_addr: '0.0.0.0:8000'
+dev_addr: '0.0.0.0:8080'
 nav:
   - Home: index.md
   - ApiKeys: apikeys.googleapis.com.md

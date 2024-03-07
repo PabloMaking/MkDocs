@@ -63,10 +63,10 @@
 
 ## Instance
 
-| Name                                              | id                  | MachineType    | Location       | State      | Network        |
-| ------------------------------------------------- | ------------------- | -------------- | -------------- | ---------- | -------------- |
-| model-venus                                       | 5806558271339922216 | n1-standard-16 | europe-west1-b | TERMINATED | Coming Soon... |
-| mapfre-dig-esp--dat--pro--autos-price-ranking--vm | 6458578003896460107 | e2-standard-2  | europe-west1-b | RUNNING    | Coming Soon... |
+| Name                                              | id                  | MachineType    | Location       | State   | Network-Name | Subnetwork                                       | IP         | Network-Tier | Network-Type   |
+| ------------------------------------------------- | ------------------- | -------------- | -------------- | ------- | ------------ | ------------------------------------------------ | ---------- | ------------ | -------------- |
+| model-venus                                       | 5806558271339922216 | n1-standard-16 | europe-west1-b | STOPPED | external-nat | mapfre-dig-esp--dat--pro--europe-west1--internal | 10.31.0.35 | PREMIUM      | ONE_TO_ONE_NAT |
+| mapfre-dig-esp--dat--pro--autos-price-ranking--vm | 6458578003896460107 | e2-standard-2  | europe-west1-b | RUNNING | nic0         | mapfre-dig-esp--dat--pro--europe-west1--internal | 10.31.0.26 | Null         | Null           |
 
 ## InstanceGroup
 

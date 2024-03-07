@@ -19,3 +19,5 @@
 | mapfre-dig-esp--dat--pro--salesforce                          | global   | {'label': 'terraform'} |
 | sftp-marketingcloud                                           | global   | {'label': 'terraform'} |
 | sftp_mapfre_te_cuidamos                                       | global   | {'label': 'terraform'} |
+
+## SecretVersion

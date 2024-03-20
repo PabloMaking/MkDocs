@@ -1,4 +1,4 @@
-# artifactregistry.googleapis.com
+# ArtifactRegistry-GoogleApis
 
 ## DockerImage
 

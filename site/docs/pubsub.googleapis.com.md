@@ -1,4 +1,4 @@
-# pubsub.googleapis.com
+# PubSub-GoogleApis
 
 ## Subscription
 

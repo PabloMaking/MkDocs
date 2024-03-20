@@ -1,4 +1,4 @@
-# containerregistry.googleapis.com
+# ContainerRegistry-GoogleApis
 
 ## Image
 
